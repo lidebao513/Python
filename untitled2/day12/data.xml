@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataDriven>
+    <yan>学海无涯苦作舟</yan>
+    <admin>admin123</admin>
+    <Xiaobao nick="小宝" age="18" sex="boy" address="上海"></Xiaobao>
+</DataDriven>

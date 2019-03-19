@@ -1,0 +1,8 @@
+测试用例,请求地址,请求参数,
+login_001,http://localhost:9000/login,{'username':'xiaobao'},
+login_002,http://localhost:9000/login,{'username':'xiaobao'},
+login_003,http://localhost:9000/login,{'username':'xiaobao'},
+login_004,http://localhost:9000/login,{'username':'xiaobao'},
+login_005,http://localhost:9000/login,{'username':'xiaobao'},
+login_006,http://localhost:9000/login,{'username':'xiaobao'},
+login_007,http://localhost:9000/login,{'username':'xiaobao'},

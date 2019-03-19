@@ -1,0 +1,208 @@
+1551166564909	geckodriver	INFO	Listening on 127.0.0.1:25798
+1551166567978	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1551166571613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551166571614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551166571886	Marionette	DEBUG	Received observer notification profile-after-change
+1551166572048	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1551166572136	Marionette	DEBUG	Received observer notification command-line-startup
+1551166572136	Marionette	DEBUG	Received observer notification nsPref:changed
+1551166572136	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1551166572470	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1551166577419	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1551166577420	Marionette	DEBUG	Waiting for delayed startup...
+1551166577708	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1551166577709	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1551166577709	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1551166577710	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1551166577711	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1551166577711	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1551166577711	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1551166577712	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1551166577712	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1551166577712	Marionette	DEBUG	Setting recommended pref network.http.phishy-userpass-length to 255
+1551166577717	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1551166577863	Marionette	INFO	Listening on port 25814
+1551166577864	Marionette	DEBUG	Remote service is active
+1551166577949	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:25857
+1551166577984	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1551166577985	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1551166578099	Marionette	DEBUG	Closed connection 0
+[Parent 1280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_1551166647741	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1551166647741	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1551166647741	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1551166647741	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1551166647741	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1551166647741	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1551166647741	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1551166647742	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1551166647742	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1551166647743	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1551166647744	Marionette	DEBUG	Resetting recommended pref network.http.phishy-userpass-length
+1551166647745	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1551166647747	Marionette	INFO	Stopped listening on port 25814
+1551166647747	Marionette	DEBUG	Remote service is inactive
+[GPU 10088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3te	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1551166641177	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1551166641248	Marionette	DEBUG	Closed connection 0
+[Parent 18156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l[Child 17868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/[Parent 18156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18156, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1551166673962	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1551166673962	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1551166673963	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1551166673964	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1551166673964	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1551166673964	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1551166673965	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1551166673967	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1551166673967	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1551166673968	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1551166673969	Marionette	DEBUG	Resetting recommended pref network.http.phishy-userpass-length
+1551166673969	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1551166673970	Marionette	INFO	Stopped listening on port 25989
+1551166673970	Marionette	DEBUG	Remote service is inactive
+g recommended pref network.http.phishy-userpass-length to 255
+1551166659757	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1551166659821	Marionette	INFO	Listening on port 26060
+1551166659821	Marionette	DEBUG	Remote service is active
+1551166660693	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:26106
+1551166660695	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1551166660696	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1551166660718	Marionette	DEBUG	Closed connection 0
+[Parent 18220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3461551166671478	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1551166671478	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1551166671478	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1551166671479	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1551166671479	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1551166671479	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1551166671479	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1551166671479	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1551166671480	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1551166671482	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1551166671483	Marionette	DEBUG	Resetting recommended pref network.http.phishy-userpass-length
+1551166671483	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1551166671484	Marionette	INFO	Stopped listening on port 26060
+1551166671484	Marionette	DEBUG	Remote service is inactive
+1551166780083	geckodriver	INFO	Listening on 127.0.0.1:26357
+1551166783114	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1551166784658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551166784659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551166784882	Marionette	DEBUG	Received observer notification profile-after-change
+1551166785033	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1551166785102	Marionette	DEBUG	Received observer notification command-line-startup
+1551166785104	Marionette	DEBUG	Received observer notification nsPref:changed
+1551166785104	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1551166785384	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1551166788806	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1551166788806	Marionette	DEBUG	Waiting for delayed startup...
+1551166789112	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1551166789113	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1551166789113	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1551166789119	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1551166789121	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1551166789121	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1551166789122	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1551166789122	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1551166789122	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1551166789122	Marionette	DEBUG	Setting recommended pref network.http.phishy-userpass-length to 255
+1551166789124	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1551166789232	Marionette	INFO	Listening on port 26373
+1551166789232	Marionette	DEBUG	Remote service is active
+1551166789700	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:26407
+1551166789736	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1551166789737	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1551166789770	Marionette	DEBUG	Closed connection 0
+[Child 13396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17784, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1551166821730	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1551166821730	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1551166821731	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1551166821731	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1551166821731	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1551166821731	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1551166821731	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1551166821731	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1551166821731	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1551166821732	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1551166821732	Marionette	DEBUG	Resetting recommended pref network.http.phishy-userpass-length
+1551166821733	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1551166821734	Marionette	INFO	Stopped listening on port 26373
+1551166821734	Marionette	DEBUG	Remote service is inactive
+1551169184724	geckodriver	INFO	Listening on 127.0.0.1:32978
+1551169187765	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1551169189918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551169189918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551169190191	Marionette	DEBUG	Received observer notification profile-after-change
+1551169190319	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1551169190383	Marionette	DEBUG	Received observer notification command-line-startup
+1551169190383	Marionette	DEBUG	Received observer notification nsPref:changed
+1551169190383	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1551169190703	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1551169193682	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1551169193683	Marionette	DEBUG	GFX sanity window detected, waiting until it has been closed...
+1551169194747	Marionette	DEBUG	Received observer notification domwindowclosed
+1551169194747	Marionette	DEBUG	Waiting for delayed startup...
+1551169194940	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1551169194940	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1551169194941	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1551169194941	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1551169194942	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1551169194943	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1551169194943	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1551169194943	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1551169194944	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1551169194944	Marionette	DEBUG	Setting recommended pref network.http.phishy-userpass-length to 255
+1551169194945	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1551169195008	Marionette	INFO	Listening on port 32999
+1551169195009	Marionette	DEBUG	Remote service is active
+1551169195468	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:33038
+1551169195472	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1551169195472	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1551169195503	Marionette	DEBUG	Closed connection 0
+[Parent 10944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1551169199642	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1551169199642	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1551169199642	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1551169199642	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1551169199642	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1551169199643	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1551169199643	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1551169199643	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1551169199643	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1551169199643	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1551169199644	Marionette	DEBUG	Resetting recommended pref network.http.phishy-userpass-length
+1551169199644	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1551169199644	Marionette	INFO	Stopped listening on port 32999
+1551169199644	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17052, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
