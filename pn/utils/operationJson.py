@@ -2,8 +2,8 @@
 #-*-coding:utf-8-*-
 
 import json
-from pn.utils.public import *
-from pn.utils.operationExcel import *
+from utils.public import *
+from utils.operationExcel import *
 class OperationJson:
     def __init__(self):
         self.excel=OperationExcel()

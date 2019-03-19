@@ -8,7 +8,7 @@ import  os
 import  smtplib
 from email.mime.text import MIMEText
 
-from pn.utils.operationExcel import OperationExcel
+from utils.operationExcel import OperationExcel
 
 class Runner:
 	def __init__(self):

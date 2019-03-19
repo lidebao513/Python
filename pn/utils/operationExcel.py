@@ -4,8 +4,8 @@
 import xlrd
 from xlutils.copy import copy
 
-from pn.utils.excel_data import *
-from pn.utils.public import *
+from utils.excel_data import *
+from utils.public import *
 
 
 

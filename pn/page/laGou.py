@@ -1,9 +1,9 @@
 #! /usr/bin/env python
 #-*-coding:utf-8-*-
 import json
-from pn.utils.public import *
-from pn.utils.operationJson import OperationJson
-from pn.utils.operationExcel import OperationExcel
+from utils.public import *
+from utils.operationJson import OperationJson
+from utils.operationExcel import OperationExcel
 
 
 operationJson=OperationJson()

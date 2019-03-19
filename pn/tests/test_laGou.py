@@ -2,11 +2,11 @@
 #-*-coding:utf-8-*-
 
 import unittest
-from pn.base.method import Method,IsContent
-from pn.page.laGou import *
-from pn.utils.public import *
-from pn.utils.operationExcel import OperationExcel
-from pn.utils.operationJson import OperationJson
+from base.method import Method,IsContent
+from page.laGou import *
+from utils.public import *
+from utils.operationExcel import OperationExcel
+from utils.operationJson import OperationJson
 
 class LaGou(unittest.TestCase):
     def setUp(self):

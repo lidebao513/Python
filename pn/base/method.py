@@ -2,9 +2,9 @@
 #-*-coding:utf-8-*-
 
 import requests
-from pn.utils.excel_data import *
-from pn.utils.operationExcel import OperationExcel
-from pn.utils.operationJson import OperationJson
+from utils.excel_data import *
+from utils.operationExcel import OperationExcel
+from utils.operationJson import OperationJson
 
 
 operationExcel=OperationExcel()
