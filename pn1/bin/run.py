@@ -8,7 +8,7 @@ import  os
 import  smtplib
 from email.mime.text import MIMEText
 
-from pn.utils.operationExcel import OperationExcel
+from utils.operationExcel import OperationExcel
 
 class Runner:
 	def __init__(self):
@@ -32,14 +32,14 @@ class Runner:
 		global  send_mail
 		global  send_user
 		send_mail = 'smtp.sina.cn'
-		send_user='wuya1303@sina.com'
+		send_user='debao.li@onesmart.org'
 		message=MIMEText(content,_subtype='plain',_charset='utf-8')
 		message['Subject']=sub
 		message['From']=send_user
 		message['To']=to_user
 		server=smtplib.SMTP()
 		server.connect(send_mail)
-		server.login('wuya1303@sina.com','admin123')
+		server.login('debao.li@onesmart.org','woaiwojia513')
 		server.sendmail(send_user,to_user,message.as_string())
 		server.close()
 
