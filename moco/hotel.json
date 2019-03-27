@@ -1,0 +1,35 @@
+[
+    {
+        "request":
+        {
+            "method":"post",
+            "uri":"/system",
+            "json":
+            {
+                "ph":"888888",
+                "name":"wuya",
+                "code":"8888888888888888888888"
+            }
+        },
+        "response":
+        {
+            "file":"f1.json"
+        }
+    },
+    {
+        "request":
+        {
+            "method":"post",
+            "uri":"/login",
+            "json":
+            {
+                "username":"wuya",
+                "password":"admin"
+            }
+        },
+        "response":
+        {
+            "file":"login_response.json"
+        }
+    }
+]
