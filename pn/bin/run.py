@@ -50,7 +50,7 @@ class Runner:
 			self.excel.run_success_result(),
 			self.excel.run_fail_result(),self.excel.run_pass_rate())
 		print('Please wait while the statistics test results are sent in the mail')
-		self.send_mail('690372397@qq.com','接口自动化测试报告',content)
+		self.send_mail('2839168630@qq.com','接口自动化测试报告',content)
 
 if __name__ == '__main__':
 	Runner().main_run()

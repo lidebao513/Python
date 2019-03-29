@@ -4,7 +4,7 @@
 #author:wuya
 
 import  unittest
-from untitled2.day10.init import *
+from day10.init import *
 
 
 class BaiduLink(Init):

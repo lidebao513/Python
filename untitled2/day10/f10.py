@@ -2,7 +2,7 @@
 #-*-coding:utf-8-*-
 
 import  unittest
-from untitled2.day10.init import *
+from day10.init import *
 
 
 class BaiduSo(Init):

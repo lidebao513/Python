@@ -20,4 +20,7 @@ from first import *
 
 # import untitled2.Day2.login
 from untitled2.Day2.login import *
+
+from Day2.login import main
+
 main()

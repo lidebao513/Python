@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85f7cefd-7733-46ab-b5c8-e103930aff4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/.idea/inspectionProfiles/profiles_settings(1).xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/.idea/inspectionProfiles/profiles_settings(1).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/.idea/pn1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/.idea/pn1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/base/method.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/base/method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/bin/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/bin/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/data/data.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/data/data.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/page/laGou.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/page/laGou.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/tests/test_laGou.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/tests/test_laGou.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/utils/operationExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/utils/operationExcel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pn1/utils/operationJson.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pn1/utils/operationJson.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="bd287df1-8de6-484f-81fb-0f61008e6c6d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,80 +9,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pn$test.coverage" NAME="test Coverage Results" MODIFIED="1553076757063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../untitled2" />
-    <SUITE FILE_PATH="coverage/pn$Unittests_in_test_laGou_py.coverage" NAME="Unittests in test_laGou.py Coverage Results" MODIFIED="1552991902080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pn1/tests" />
-    <SUITE FILE_PATH="coverage/pn$Unittests_for_test_laGou_LaGou_test_laGou_001.coverage" NAME="Unittests for test_laGou.LaGou.test_laGou_001 Coverage Results" MODIFIED="1552991730078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pn1/tests" />
+    <SUITE FILE_PATH="coverage/pn1$Unittests_in_test_laGou_py.coverage" NAME="Unittests in test_laGou.py Coverage Results" MODIFIED="1552989113829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../untitled2/test.py">
+        <entry file="file://$PROJECT_DIR$/tests/test_laGou.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state>
+              <folding>
+                <element signature="e#52#68#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>pn.</find>
-      <find>header</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/tests/test_laGou.py" />
-        <option value="$PROJECT_DIR$/page/laGou.py" />
-        <option value="$PROJECT_DIR$/../pn1/base/method.py" />
-        <option value="$PROJECT_DIR$/../pn1/data/requestData.json" />
-        <option value="$PROJECT_DIR$/../pn1/tests/test_laGou.py" />
-        <option value="$PROJECT_DIR$/../pn1/bin/run.py" />
-        <option value="$PROJECT_DIR$/../untitled2/test.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-5" />
+    <option name="y" value="-2" />
     <option name="width" value="1936" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled2" />
+    <property name="last_opened_file_path" value="D:/git/GitHub/pn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,64 +59,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../untitled2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../untitled2/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test_laGou.LaGou.test_laGou_001" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="pn1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pn1/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_laGou.LaGou.test_laGou_001&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Unittests in test_laGou.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="pn1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pn1/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../pn1/tests/test_laGou.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_laGou.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python tests.Unittests in test_laGou.py" />
-        <item itemvalue="Python tests.Unittests for test_laGou.LaGou.test_laGou_001" />
       </list>
     </recent_temporary>
   </component>
@@ -178,49 +86,33 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="85f7cefd-7733-46ab-b5c8-e103930aff4f" name="Default Changelist" comment="" />
-      <created>1552990764208</created>
+      <changelist id="bd287df1-8de6-484f-81fb-0f61008e6c6d" name="Default Changelist" comment="" />
+      <created>1552989083975</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552990764208</updated>
-      <workItem from="1552990766422" duration="127000" />
-      <workItem from="1552990991724" duration="2860000" />
+      <updated>1552989083975</updated>
+      <workItem from="1552989086304" duration="692000" />
+      <workItem from="1552990727302" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_laGou_py - 2019.03.19 at 18h 24m 09s.xml">
-      <configuration name="Unittests in test_laGou.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_laGou_LaGou_test_laGou_001 - 2019.03.19 at 18h 27m 11s.xml">
-      <configuration name="Unittests for test_laGou.LaGou.test_laGou_001" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_laGou_LaGou_test_laGou_001 - 2019.03.19 at 18h 27m 43s.xml">
-      <configuration name="Unittests for test_laGou.LaGou.test_laGou_001" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_laGou_LaGou_test_laGou_001 - 2019.03.19 at 18h 33m 51s.xml">
-      <configuration name="Unittests for test_laGou.LaGou.test_laGou_001" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_laGou_LaGou_test_laGou_001 - 2019.03.19 at 18h 35m 30s.xml">
-      <configuration name="Unittests for test_laGou.LaGou.test_laGou_001" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_laGou_py - 2019.03.19 at 18h 38m 23s.xml">
+    <history-entry file="Unittests_in_test_laGou_py - 2019.03.19 at 17h 51m 56s.xml">
       <configuration name="Unittests in test_laGou.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2987000" />
+    <option name="totallyTimeSpent" value="735000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-5" y="-2" width="1936" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23882225" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.67538124" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -244,113 +136,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tests/test_laGou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-          <folding>
-            <element signature="e#44#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#51#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/laGou.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/data/request.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/page/laGou.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-792" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/base/method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/utils/operationJson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/utils/excel_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-522" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/utils/public.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/data/requestData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/bin/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/utils/operationExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pn1/tests/test_laGou.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state>
           <folding>
             <element signature="e#52#68#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled2/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>

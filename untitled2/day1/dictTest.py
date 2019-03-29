@@ -6,12 +6,13 @@
 dict1 ={'name':'xiaobao','age':20,'address':'shanghai'}
 # 判断key值是否存在
 age =20
-# if dict1.has_key('age'):
-# if age in dict1.values():
-# 	if age >18 :
-# 		print(dict1['age'])
-# else:
-# 	print('sorry')
+if dict1.has_key('age'):
+    pass
+if age in dict1.values():
+	if age >18 :
+		print(dict1['age'])
+else:
+	print('sorry')
 
 # clear 全部清空
 # dict1.clear()

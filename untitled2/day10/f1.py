@@ -11,7 +11,7 @@ class F1(unittest.TestCase):
 		print('已处理')
 
 	def test_001(self):
-		admin
+		# admin
 		print('adminm')
 
 	def test_002(self):

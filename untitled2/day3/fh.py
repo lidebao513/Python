@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #-*-coding:utf-8-*-
-
+from day3 import day3login
 '''
 根据字符串的形式去某个模块中寻找XX函数--->getattr()
 根据字符串的形式去某个模块中判断东西是否存在--->hasattr()
@@ -16,7 +16,7 @@
 
 # 调用login模块中logout函数
 # import untitled2
-from untitled2.day3 import day3login
+
 #
 # f = getattr(login,'logout')
 # f()
