@@ -4,13 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="moco" />
     <orderEntry type="library" name="R User Library" level="project" />
     <orderEntry type="library" name="R Skeletons" level="application" />
-    <orderEntry type="module" module-name="five" />
-    <orderEntry type="module" module-name="moco" />
-    <orderEntry type="module" module-name="fiveDjango" />
-    <orderEntry type="module" module-name="paymentMock" />
-    <orderEntry type="module" module-name="pn" />
+    <orderEntry type="module" module-name="untitled2" />
   </component>
 </module>
