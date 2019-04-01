@@ -2,7 +2,7 @@
 """
 Created on Mar 14, 2018
 
-@author: guxiwen
+
 """
 from functools import wraps
 from flask import abort

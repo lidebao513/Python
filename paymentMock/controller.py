@@ -2,7 +2,7 @@
 """
 Created on Mar 15, 2018
 
-@author: guxiwen
+
 """
 from utils import Session, APP_PREFIX, TARGET_URL
 import json
