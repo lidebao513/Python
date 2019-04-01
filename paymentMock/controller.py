@@ -38,9 +38,9 @@ class BalanceAgent(AgentBase):
 
     def do_work(self):
         if self.method == "POST":
-            print self.data
+            print(self.data)
             result = self.new_session.post(self.target_url, self.data)
         else:
             result = self.new_session.get(self.target_url, self.data)
-        print result.text
+        print(result.text)
         return result.text

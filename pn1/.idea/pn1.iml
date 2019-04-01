@@ -10,5 +10,7 @@
     <orderEntry type="module" module-name="five" />
     <orderEntry type="module" module-name="moco" />
     <orderEntry type="module" module-name="fiveDjango" />
+    <orderEntry type="module" module-name="paymentMock" />
+    <orderEntry type="module" module-name="pn" />
   </component>
 </module>

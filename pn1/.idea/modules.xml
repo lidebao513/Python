@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/../five/.idea/five.iml" filepath="$PROJECT_DIR$/../five/.idea/five.iml" />
       <module fileurl="file://$PROJECT_DIR$/../fiveDjango/.idea/fiveDjango.iml" filepath="$PROJECT_DIR$/../fiveDjango/.idea/fiveDjango.iml" />
       <module fileurl="file://$PROJECT_DIR$/../moco/.idea/moco.iml" filepath="$PROJECT_DIR$/../moco/.idea/moco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../paymentMock/.idea/paymentMock.iml" filepath="$PROJECT_DIR$/../paymentMock/.idea/paymentMock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pn/.idea/pn.iml" filepath="$PROJECT_DIR$/../pn/.idea/pn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pn1.iml" filepath="$PROJECT_DIR$/.idea/pn1.iml" />
     </modules>
   </component>

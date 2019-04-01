@@ -11,6 +11,7 @@ import json
 import requests
 import time
 
+# 封装post和get的方法
 
 class Session(object):
     def __init__(self):
@@ -29,7 +30,7 @@ class Session(object):
             self.headers = headers
         return self.session.get(url, params=params, headers=self.headers)
 
-
+# 封装mock规则
 class Mock(object):
     def __init__(self, mock_role):
         self.mock_role = mock_role
@@ -37,6 +38,7 @@ class Mock(object):
     def __call__(self, func):
         @wraps(func)
         def wrapper(*args, **kwargs):
+            # 设置mock规则的statuscode
             if self.mock_role == "NotFound":
                 abort(404)
             if self.mock_role == "ServerError":
@@ -49,6 +51,7 @@ class Mock(object):
                 abort(500)
             result = func(*args, **kwargs)
             result = json.loads(result)
+            # 设置mock规则的返回值
             if self.mock_role == "allFail":
                 result["Result"] = -1
             if self.mock_role == "partFail":
@@ -80,14 +83,18 @@ mock_all_fail = Mock("allFail")
 mock_part_fail = Mock("partFail")
 mock_handling = Mock("Handling")
 mock_success = Mock("Success")
-APP_PREFIX = {"account": "http://172.18.18.98:9004", "balance": "http://payment.trading.api.pay.ppdaicorp.com"}
+# 设置测试的ip地址或站点
+APP_PREFIX = {"account": "http://172.18.18.98:9004", "balance": "http://zh-test.onesmart.org:810"}
+# APP_PREFIX = {"account": "http://172.18.18.98:9004", "balance": "http://payment.trading.api.pay.ppdaicorp.com"}
 TARGET_URL = {"batchTransactions": "http://172.18.18.98:9004/v1/batchTransactions",
+              # 接口地址 调用需要 站点+URL
+              "getCampusListByArea":"/api/campus/getCampusListByArea",
               "SubmitPaymentBillBatch": "/payment/PaymentTradeService/SubmitPaymentBillBatch",
               "CancelPaymentBillBatch": "/payment/PaymentTradeService/CancelPaymentBillBatch",
               "CreatePaymentBillBatch": "/payment/PaymentTradeService/CreatePaymentBillBatch",
               "QueryPaymentBillBatch": "/payment/PaymentTradeService/QueryPaymentBillBatch"}
 
-
+# 解析json
 def json_encode(func):
     @wraps(func)
     def wrapper(*args, **kwargs):
