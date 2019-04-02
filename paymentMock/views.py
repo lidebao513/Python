@@ -30,6 +30,16 @@ def crteat_test_UpdateAgreement():
     result = new_heandlere.do_work()
     return result
 
+@main.route('/api/Contract/AgreementByAgid',methods=["GET"])
+@mock_404
+def crteat_test_AgreementByAgid():
+    data = request.get_data()
+    print(data)
+    new_heandlere =BalanceAgent("AgreementByAgid",data=data)
+    result = new_heandlere.do_work()
+    return result
+
+
 #
 # @main.route('/api/campus/getCampusListByArea',methods=["POST"])
 # @mock_403

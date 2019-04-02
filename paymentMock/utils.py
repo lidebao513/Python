@@ -88,6 +88,7 @@ mock_success = Mock("Success")
 APP_PREFIX = {"account": "http://172.18.18.98:9004", "balance": "http://zh-test.onesmart.org:810"}
 # APP_PREFIX = {"account": "http://172.18.18.98:9004", "balance": "http://payment.trading.api.pay.ppdaicorp.com"}
 TARGET_URL = {"batchTransactions": "http://172.18.18.98:9004/v1/batchTransactions",
+              "AgreementByAgid":"/api/Contract/AgreementByAgid",
               # 接口地址 调用需要 站点+URL
               "getCampusListByArea":"/api/campus/getCampusListByArea",
               "Insert":"/api/Agreement/Insert",
