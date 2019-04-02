@@ -90,6 +90,8 @@ APP_PREFIX = {"account": "http://172.18.18.98:9004", "balance": "http://zh-test.
 TARGET_URL = {"batchTransactions": "http://172.18.18.98:9004/v1/batchTransactions",
               # 接口地址 调用需要 站点+URL
               "getCampusListByArea":"/api/campus/getCampusListByArea",
+              "Insert":"/api/Agreement/Insert",
+              "UpdateAgreement":"/api/Agreement/UpdateAgreement",
               "SubmitPaymentBillBatch": "/payment/PaymentTradeService/SubmitPaymentBillBatch",
               "CancelPaymentBillBatch": "/payment/PaymentTradeService/CancelPaymentBillBatch",
               "CreatePaymentBillBatch": "/payment/PaymentTradeService/CreatePaymentBillBatch",

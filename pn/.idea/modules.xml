@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../moco/.idea/moco.iml" filepath="$PROJECT_DIR$/../moco/.idea/moco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../paymentMock/.idea/paymentMock.iml" filepath="$PROJECT_DIR$/../paymentMock/.idea/paymentMock.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pn1.iml" filepath="$PROJECT_DIR$/.idea/pn1.iml" />
     </modules>
   </component>
